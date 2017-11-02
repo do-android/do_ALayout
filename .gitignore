@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_ALayout/libs/docore.jar
+/doExt_do_ALayout/do_build.xml
+/doExt_do_ALayout/do_ALayout.zip
